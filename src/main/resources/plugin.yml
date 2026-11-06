@@ -1,0 +1,8 @@
+name: EnchantmentAdvanced
+description: $description
+version: '${version}'
+
+main: dev.tdmnhat.plugin.EnchantmentAdvanced
+api-version: '1.13'
+
+authors: [ tdminhnhat ]
